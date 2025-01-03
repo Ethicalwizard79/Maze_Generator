@@ -17,7 +17,7 @@ Maze Master is not just a game—it's a thrilling journey through procedurally g
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/maze-master.git
+https://github.com/Ethicalwizard79/Maze_Generator.git
 
 # Install dependencies
 pip install -r requirements.txt
@@ -38,8 +38,6 @@ streamlit run src/app.py
 maze-master/
 ├── src/
 │   ├── app.py            # Streamlit application
-│   ├── maze_generator.py # Maze generation logic
-│   └── solver.py         # Pathfinding algorithms
 ├── requirements.txt      # Project dependencies
 └── README.md             # Project documentation
 ```
