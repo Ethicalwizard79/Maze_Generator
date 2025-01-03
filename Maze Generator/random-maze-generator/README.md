@@ -1,6 +1,5 @@
 # 🧩 Maze Master: Your Ultimate Maze Adventure! 🚀
 
-Maze Master Banner
 
 ## 🌟 Dive into the World of Algorithmic Puzzles!
 
